@@ -47,7 +47,7 @@ if user_input_choice == rock :
     if system_choice == scissors :
         print("Rock beats scissors. YOU WON!")
     elif system_choice == paper :
-        print("Paper beats scissors. YOU LOSE.")
+        print("Paper beats rock. YOU LOSE.")
     else :
         print("Rock and rock. It\'s a tie.")    
 
